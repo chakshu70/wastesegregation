@@ -1,1 +1,1 @@
-# wastesegregation
+Waste Segregation
